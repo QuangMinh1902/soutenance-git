@@ -25,7 +25,7 @@ Vous avez une idée pour améliorer nos applications ? Nous aimons ça !
 
 
 
-## Commment utiliser GitHub
+## Comment utiliser GitHub
 
 * Merci de ne pas commenter si vous n'avez pas d'informations pertinentes à ajouter. C'est juste du bruit supplémentaire pour tous ceux qui sont abonnés à ce numéro.
 * Abonnez-vous pour recevoir des notifications sur les changements de statut et les nouveaux commentaires.
