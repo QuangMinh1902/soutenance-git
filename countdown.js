@@ -9,7 +9,7 @@ function updateCountdown() {
   const now = new Date().getTime();
   const gap = newYearTime - now;
 
-  const second = 100;
+  const second = 1000;
   const minute = second * 60;
   const hour = minute * 60;
   const day = hour * 24;
