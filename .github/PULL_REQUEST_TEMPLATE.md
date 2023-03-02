@@ -19,10 +19,12 @@ cochez la dernière case. -->
 
 
 
-#### Checklist    
+#### Check-list
 
-- [ ] I have read the [contribution guidelines](https://github.com/rclone/rclone/blob/master/CONTRIBUTING.md#submitting-a-new-feature-or-bug-fix).
-- [ ] I have added tests for all changes in this PR if appropriate.
-- [ ] I have added documentation for the changes if appropriate.
-- [ ] Tous les messages de commits sont dans [house style](https://github.com/rclone/rclone/blob/master/CONTRIBUTING.md#commit-messages).
-- [ ] J'ai terminé, ce Pull Request est prête à être examiné :-)
+- [ ] J'ai lu le [contribution guidelines](https://github.com/QuangMinh1902/soutenance-git/blob/develop/CONTRIBUTING.md)
+- [ ] Bug fix 
+- [ ] Nouvelle fonctionnalité
+- [ ] J'ai effectué une auto-révision de mon code
+- [ ] S'il s'agit d'une fonctionnalité essentielle, j'ai ajouté des tests approfondis
+- [ ] Avons-nous besoin de mettre en œuvre des analyses ?
+- [ ] Ce changement nécessite une mise à jour de la documentation
