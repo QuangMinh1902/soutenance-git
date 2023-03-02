@@ -2,7 +2,7 @@
 
 - Si vous trouvez un bug que vous souhaitez corriger ou une nouvelle fonctionnalité que vous souhaitez implémenter, veuillez soumettre un pull request via GitHub.
 
-- S'il s'agit d'une fonctionnalité importante, créez d'abord [un issue]() afin qu'il puisse être discuté.
+- S'il s'agit d'une fonctionnalité importante, créez d'abord [un issue](https://github.com/QuangMinh1902/soutenance-git/issues) afin qu'il puisse être discuté.
 
 ## Utiliser Git et GitHub
 
