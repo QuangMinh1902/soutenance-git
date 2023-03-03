@@ -1,15 +1,15 @@
-const containerEl = document.querySelector('.container');
+const containerEl = document.querySelector(".container");
 
 for (let index = 0; index < 30; index++) {
-  const colorContainerEl = document.createElement('div');
-  colorContainerEl.classList.add('color-container');
+  const colorContainerEl = document.createElement("div");
+  colorContainerEl.classList.add("color-container");
   containerEl.appendChild(colorContainerEl);
 }
 
-const colorContainerEls = document.querySelectorAll('.color-container');
+const colorContainerEls = document.querySelectorAll(".color-container");
 
 function randomColor() {
-  const chars = '0123456789abcdef';
+  const chars = "0123456789abcdef";
   const colorCodeLength = 6;
   let colorCode = '';
   for (let index = 0; index < colorCodeLength; index++) {
