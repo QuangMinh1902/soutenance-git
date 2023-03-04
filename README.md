@@ -76,7 +76,7 @@ npm run lint:fix
 - Pour enregistrer le hooks, veuillez add et commit .husky/pre-commit
 
 ```sh
-git add .husky/pre-commit && git commit -m "Add pre-commit"
+git add .husky/pre-commit && git commit -m "Add husky pre-commit"
 ```
 
 - Reference:
