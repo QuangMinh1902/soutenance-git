@@ -27,11 +27,11 @@ Ce projet justifie les comptétence de Git de l'auteur et implique les notions p
 
 ### Configurer les packages git et npm
 
-- npm
+- Initialiser git and npm
 
 ```sh
  git init
- npm init
+ npm init -y 
 ```
 
 - Et vous devez avoir la bibliothèque ESLint. Il existe une commande pratique pour configurer la configuration ESLint
@@ -76,7 +76,7 @@ npm run lint:fix
 - Pour enregistrer le hooks, veuillez add et commit .husky/pre-commit
 
 ```sh
-git add .husky/pre-commit && git commit -m "Add pre-commit"
+git add .husky/pre-commit && git commit -m "Add husky pre-commit"
 ```
 
 - Reference:
