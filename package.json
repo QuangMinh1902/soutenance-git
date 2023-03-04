@@ -1,0 +1,27 @@
+{
+  "name": "soutenance-git",
+  "version": "1.0.0",
+  "description": "Ce projet justifie les comptétence de Git de l'auteur et implique les notions principales :",
+  "main": "clock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint colors.js clock.js countdown.js",
+    "lint:fix": "eslint --fix colors.js clock.js countdown.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuangMinh1902/soutenance-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuangMinh1902/soutenance-git/issues"
+  },
+  "homepage": "https://github.com/QuangMinh1902/soutenance-git#readme",
+  "devDependencies": {
+    "eslint": "^8.35.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
