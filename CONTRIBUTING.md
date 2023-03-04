@@ -44,3 +44,10 @@ git reflog                       # To check that HEAD{1} is your previous state
 git reset --hard 'HEAD@{1}'      # To roll back to your previous state
 ```
 
+### Workflow
+
+#### Ce projet utilise gitflow pour norme codage :
+- Vous installez gitflow extension: https://marketplace.visualstudio.com/items?itemName=vector-of-bool.gitflow
+- Tapez "Ctrl+Shift+P" sur le clavier et cherchez gitflow 
+- Il vous faut respecter les ordres de branches ici : http://danielkummer.github.io/git-flow-cheatsheet/#release
+- Pour start/finish des feature branches, choisissez Gitflow:Feature:start - Gitflow:Feature:finish et faire pareil pour les autres branches
